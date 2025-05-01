@@ -85,4 +85,9 @@ Melihat hasil data yang sudah diekstrak dan dibersihkan di Google Sheets melalui
 ---
 
 ✅ **Proyek ini telah melalui pengujian menyeluruh dengan cakupan (coverage) lebih dari 90% di semua unit test.**
-![image](https://github.com/user-attachments/assets/d01dcc63-4edb-44ea-81cf-454800724493)
+![Hasil Test Coverage](hasil_test_coverage.jpg)
+
+**Detail Coverage**:
+- `test_extract.py`: 98% (1 baris tidak ter-cover)
+- `test_load.py`: 92% (3 baris tidak ter-cover)
+- `test_transform.py`: 97% (1 baris tidak ter-cover)
